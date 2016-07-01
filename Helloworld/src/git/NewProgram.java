@@ -14,7 +14,7 @@ public class NewProgram {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("New program");
+		System.out.println("New program!!!");
 	}
 
 }
